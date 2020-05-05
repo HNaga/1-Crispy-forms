@@ -1,5 +1,3 @@
-# Django package review
+# Django Package Review
 
-This is series of reviews of Django package
-
-This will be pushed to Githib
+This is a series of reviews of Django packages.
